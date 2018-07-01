@@ -6,6 +6,6 @@
 
 [RPC实现原理](https://github.com/tsy77/blog/issues/3)
 
-[如何知根知底使用Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)
+[刨根问底之Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)
 
 [刨根问底之node-gyp](https://github.com/tsy77/blog/issues/5)

@@ -4,6 +4,8 @@
 
 - [Node.js源码-编译](https://github.com/tsy77/blog/issues/6)
 
+- [Node.js源码-一个node程序是如何运行的](https://github.com/tsy77/blog/issues/7)
+
 ### Node.js相关
 
 - [刨根问底之Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)

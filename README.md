@@ -8,6 +8,8 @@
 
 - [Node.js源码-node_javascript.cc](https://github.com/tsy77/blog/issues/8)
 
+- [Node.js源码-bootstrap_node.js](https://github.com/tsy77/blog/issues/9)
+
 ### Node.js相关
 
 - [刨根问底之Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)

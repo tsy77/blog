@@ -10,6 +10,8 @@
 
 - [Node.js源码-bootstrap_node.js](https://github.com/tsy77/blog/issues/9)
 
+- [Node.js源码-global&process的创建、初始化](https://github.com/tsy77/blog/issues/10)
+
 ### Node.js相关
 
 - [刨根问底之Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)

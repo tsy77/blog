@@ -14,6 +14,8 @@
 
 - [libuv源码-Event Loop](https://github.com/tsy77/blog/issues/11)
 
+- [Node.js源码-setTimeout&setImmediate&process.nextTick](https://github.com/tsy77/blog/issues/12)
+
 ### Node.js相关
 
 - [刨根问底之Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)

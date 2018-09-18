@@ -1,15 +1,12 @@
 # blog
 
-## V8
+## 源码系列
 
-#### 源码
+#### V8
 
 - [V8源码-内存管理](https://github.com/tsy77/blog/issues/13)
 
-
-## Node.js
-
-#### 源码
+#### Node.js
 
 - [Node.js源码-编译](https://github.com/tsy77/blog/issues/6)
 
@@ -27,7 +24,8 @@
 
 - [Node.js源码-net.createServer & net.createConnection & 'data' 事件](https://github.com/tsy77/blog/issues/14)
 
-#### 其他
+
+## Node.js
 
 - [刨根问底之Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)
 
@@ -39,6 +37,11 @@
 ## Vue
 
 - [Vue全家桶实现原理简要梳理](https://github.com/tsy77/blog/issues/1)
+
+
+## Electron
+
+- [初识Electron](https://github.com/tsy77/blog/issues/15)
 
 
 ## 其他

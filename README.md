@@ -42,6 +42,9 @@
 
 - [初识Electron](https://github.com/tsy77/blog/issues/15)
 
+## 计算机基础
+
+- [编译原理扫盲帖](https://github.com/tsy77/blog/issues/16)
 
 ## 其他
 

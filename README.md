@@ -1,5 +1,12 @@
 # blog
 
+## 计算机基础
+
+- [编译原理扫盲帖](https://github.com/tsy77/blog/issues/16)
+
+- [计算机系统有关的若干问（持续更新）](https://github.com/tsy77/blog/issues/17)
+
+
 ## 源码系列
 
 #### V8
@@ -24,27 +31,23 @@
 
 - [Node.js源码-net.createServer & net.createConnection & 'data' 事件](https://github.com/tsy77/blog/issues/14)
 
-#### Vue
-
-- [Vue全家桶实现原理简要梳理](https://github.com/tsy77/blog/issues/1)
-
-
-## Node.js
-
 - [刨根问底之Node.js C++ Addon](https://github.com/tsy77/blog/issues/4)
 
 - [刨根问底之node-gyp](https://github.com/tsy77/blog/issues/5)
 
 - [Koa实现原理分析](https://github.com/tsy77/blog/issues/2)
 
+#### Vue
 
-## Electron
+- [Vue全家桶实现原理简要梳理](https://github.com/tsy77/blog/issues/1)
+
+
+## 入门系列
+
+#### Electron
 
 - [初识Electron](https://github.com/tsy77/blog/issues/15)
 
-## 计算机基础
-
-- [编译原理扫盲帖](https://github.com/tsy77/blog/issues/16)
 
 ## 其他
 

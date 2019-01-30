@@ -6,14 +6,13 @@
 
 - [计算机系统有关的若干问（持续更新）](https://github.com/tsy77/blog/issues/17)
 
-
-## 源码系列
-
-#### V8
+## 浏览器
 
 - [V8源码-内存管理](https://github.com/tsy77/blog/issues/13)
 
-#### Node.js
+## 基础语言
+
+### Node.js
 
 - [Node.js源码-编译](https://github.com/tsy77/blog/issues/6)
 
@@ -37,20 +36,22 @@
 
 - [Koa实现原理分析](https://github.com/tsy77/blog/issues/2)
 
-#### Vue
+## 工程体系
+
+- [Parcel源码解读](https://github.com/tsy77/blog/issues/19)
+
+## 框架
 
 - [Vue全家桶实现原理简要梳理](https://github.com/tsy77/blog/issues/1)
 
-
-## 入门系列
-
-#### Electron
+## 跨端
 
 - [初识Electron](https://github.com/tsy77/blog/issues/15)
 
-
 ## 其他
 
-- [RPC实现原理](https://github.com/tsy77/blog/issues/3)
+[RPC实现原理](https://github.com/tsy77/blog/issues/3)
 
-- [关于请求被挂起的问题排查](https://github.com/tsy77/blog/issues/18)
+## 踩坑
+
+[关于请求被挂起的问题排查](https://github.com/tsy77/blog/issues/18)
